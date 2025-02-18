@@ -48,7 +48,7 @@
     "chokidar": "^3.6.0",
     "destr": "^2.0.3",
     "h3": "^1.13.0",
-    "lru-cache": "^10.4.3",
+    "lru-cache": "^11.0.2",
     "node-fetch-native": "^1.6.4",
     "ofetch": "^1.4.1",
     "ufo": "^1.5.4"
