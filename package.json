@@ -60,7 +60,7 @@
     "@azure/identity": "^4.5.0",
     "@azure/keyvault-secrets": "^4.9.0",
     "@azure/storage-blob": "^12.26.0",
-    "@capacitor/preferences": "^6.0.3",
+    "@capacitor/preferences": "^7.0.1",
     "@cloudflare/workers-types": "^4.20241224.0",
     "@deno/kv": "^0.8.4",
     "@electric-sql/pglite": "^0.2.15",
