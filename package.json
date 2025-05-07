@@ -103,7 +103,7 @@
     "uploadthing": "^7.4.1",
     "vite": "^6.0.6",
     "vitest": "^2.1.8",
-    "wrangler": "^3.99.0"
+    "wrangler": "^4.11.0"
   },
   "peerDependencies": {
     "@azure/app-configuration": "^1.8.0",
