@@ -64,7 +64,7 @@
     "@cloudflare/workers-types": "^4.20241224.0",
     "@deno/kv": "^0.10.0",
     "@electric-sql/pglite": "^0.2.15",
-    "@libsql/client": "^0.14.0",
+    "@libsql/client": "^0.15.4",
     "@netlify/blobs": "^8.1.0",
     "@planetscale/database": "^1.19.0",
     "@types/deno": "^2.0.0",
